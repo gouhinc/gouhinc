@@ -16,28 +16,16 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center"><b>Welcome! I'm Chloe Gouhin.</b>
+<p align='center'>
+ <a href="https://www.linkedin.com/in/chloe-gouhin-6874051b1"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+            <p/>
 
-<p align="center">
-  hello hello
-</p>
-
-
-<br>
-
-
-
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+**About me**
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- A current sophomore attending Barnard College at Columbia University.
+- I’m currently open for an Intern or a new job opportunity.
 
 <br><br>
 
