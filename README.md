@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <br>
 
-- **Languages I have worked with, but want more experience**:
+- **Languages I have worked with, but want more professional experience**:
 
 	![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 	![React](https://img.shields.io/badge/React-5FD3F3.svg?style=for-the-badge&logo=react&logoColor=black)
@@ -54,6 +54,12 @@ Here are some ideas to get you started:
 	![Solidity](https://img.shields.io/badge/solidity-1C1C1C.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
 <br>	
+
+- **Languages I am currently learning!**:
+
+	![C](https://img.shields.io/badge/C-6195CC.svg?style=for-the-badge&logo=C&logoColor=white)
+
+<br>
 
 - **Languages I am looking to learn!**:
 
