@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ## <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width ="25"><b>About me!</b><img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width ="25">
 
 <p>
-	- A current sophomore attending Barnard College at Columbia University studying Computer Science. <br>
-	- I am also pursuing a Psychology minor and a potential Math minor. <br>
+	- A current Junior attending Barnard College at Columbia University studying Computer Science. <br>
+	- I am also pursuing a Psychology dual major. <br>
 	- My studies are focused on Intelligent Systems and AI. <br>
 	- I am a current member of the Columbia fencing team! <br>
 	- I’m currently open for an Intern or a new job opportunity.
