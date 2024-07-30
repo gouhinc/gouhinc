@@ -11,20 +11,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"><b>Welcome! I'm Chloe Gouhin.</b></h1>
+<h1 align="center"><b>Welcome, and thanks for checking ouy my page!</b></h1>
 
 <p align='center'>
-	Hi! Welcome to my page. Please feel free to venture through my developing portfolio.
+	My name is Chloe Gouhin, please feel free to venture through my developing portfolio.
 <p/>
 
 ## <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width ="25"><b>About me!</b><img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width ="25">
 
 <p>
-	- A current Junior attending Barnard College at Columbia University studying Computer Science. <br>
+	- A current Senior attending Barnard College at Columbia University studying Computer Science. <br>
 	- I am also pursuing a Psychology dual major. <br>
 	- My studies are focused on Intelligent Systems and AI. <br>
-	- I am a current member of the Columbia fencing team! <br>
-	- I’m currently open for an Intern or a new job opportunity.
+	- I am a  member of the Columbia fencing team! <br>
+	- I’m currently open for an intern or a new job opportunity.
 </p>
 
 <hr>
