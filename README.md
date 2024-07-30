@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"><b>Welcome, and thanks for checking ouy my page!</b></h1>
+<h1 align="center"><b>Welcome, and thanks for checking out my page!</b></h1>
 
 <p align='center'>
 	My name is Chloe Gouhin, please feel free to venture through my developing portfolio.
