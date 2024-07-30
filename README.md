@@ -99,7 +99,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<a href="mailto:cgouhin5683@gmail.com?subject=%20Hello%20from%20Github!"><img src="https://img.shields.io/badge/Gmail: cgouhin5683@gmail.com-D74F43.svg?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<a href="mailto:gouhinchloe@gmail.com?subject=%20Hello%20from%20Github!"><img src="https://img.shields.io/badge/Gmail: gouhinchloe@gmail.com-D74F43.svg?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 
 <br>
 
