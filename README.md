@@ -27,7 +27,7 @@
 	![HTML](https://img.shields.io/badge/HTML-E54D27.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 	![JavaScript](https://img.shields.io/badge/JavaScript-FFDF00.svg?style=for-the-badge&logo=javascript&logoColor=black)
 	![Git](https://img.shields.io/badge/Git-E84E32.svg?style=for-the-badge&logo=git&logoColor=white)
-	![CPP]([https://img.shields.io/badge/CPP-6195CC.svg?style=for-the-badge&logo=CPP&logoColor=white](https://img.shields.io/badge/CPP-6195CC.svg?style=for-the-badge&logo=cplusplus))
+	![CPP](https://img.shields.io/badge/-c++-black?logo=c%2B%2B)
 	![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 	![Solidity](https://img.shields.io/badge/solidity-1C1C1C.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
@@ -98,4 +98,4 @@
 	
 <hr>
 
-Last edit: 07/29/2024
+Last edit: 05/25/2025
