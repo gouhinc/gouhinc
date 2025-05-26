@@ -1,29 +1,15 @@
-<!--
-**gouhinc/gouhinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center"><b>Welcome, and thanks for checking out my page!</b></h1>
+<h1 align="center"><b>Welcome to my page!</b></h1>
 
 <p align='center'>
-	My name is Chloe Gouhin, please feel free to venture through my developing portfolio.
+	My name is Chloe Gouhin, please feel free to venture through my developing portfolio and thanks for looking at my page!
 <p/>
 
 ## <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width ="25"><b>About me!</b><img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width ="25">
 
 <p>
-	- A current Senior attending Barnard College at Columbia University studying Computer Science. <br>
-	- I am also pursuing a Psychology dual major. <br>
-	- My studies are focused on Intelligent Systems and AI. <br>
-	- I am a  member of the Columbia fencing team! <br>
+	- A recent graduate of Barnard College at Columbia University with a major in Computer Science along the Intelligent Systems track. <br>
+	- Also pursuing a Psychology dual major. <br>
+	- A member of the Columbia fencing team! <br>
 	- I’m currently open for an intern or a new job opportunity.
 </p>
 
@@ -41,30 +27,31 @@ Here are some ideas to get you started:
 	![HTML](https://img.shields.io/badge/HTML-E54D27.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 	![JavaScript](https://img.shields.io/badge/JavaScript-FFDF00.svg?style=for-the-badge&logo=javascript&logoColor=black)
 	![Git](https://img.shields.io/badge/Git-E84E32.svg?style=for-the-badge&logo=git&logoColor=white)
+	![CPP]([https://img.shields.io/badge/CPP-6195CC.svg?style=for-the-badge&logo=CPP&logoColor=white](https://img.shields.io/badge/CPP-6195CC.svg?style=for-the-badge&logo=cplusplus))
+	![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+	![Solidity](https://img.shields.io/badge/solidity-1C1C1C.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
 <br>
 
 - **Languages I have worked with, but want more professional experience**:
 
-	![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 	![React](https://img.shields.io/badge/React-5FD3F3.svg?style=for-the-badge&logo=react&logoColor=black)
 	![TypeScript](https://img.shields.io/badge/TypeScript-2F74C0.svg?style=for-the-badge&logo=typescript&logoColor=white)
 	![Go](https://img.shields.io/badge/Go-09A7D0.svg?style=for-the-badge&logo=go&logoColor=white)
 	![jQuery](https://img.shields.io/badge/jQuery-75D0F7.svg?style=for-the-badge&logo=jquery&logoColor=black)
-	![Solidity](https://img.shields.io/badge/solidity-1C1C1C.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
 <br>	
 
 - **Languages I am currently learning!**:
 
-	![C](https://img.shields.io/badge/C-6195CC.svg?style=for-the-badge&logo=C&logoColor=white)
+	![Rust](https://img.shields.io/badge/Rust-F04F12.svg?style=for-the-badge&logo=rust&logoColor=white)
+	![Swift](https://img.shields.io/badge/Swift-EB6539.svg?style=for-the-badge&logo=Swift&logoColor=white)
 
 <br>
 
 - **Languages I am looking to learn!**:
 
-	![Rust](https://img.shields.io/badge/Rust-F04F12.svg?style=for-the-badge&logo=rust&logoColor=white)
-	![Swift](https://img.shields.io/badge/Swift-EB6539.svg?style=for-the-badge&logo=Swift&logoColor=white)
+	
 	
 </p>
 
